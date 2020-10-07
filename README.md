@@ -2,6 +2,9 @@
 This repository is for a project based on conventional machine learning models.
 ## Background info 
 **Dihydrorotate dehydrogenase** is a potential host target (i.e *human*) , the inhibition of which can provide with a therapeutic relief for COVID-19 patients. This is a paper that discusses this point - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7406694/
+
+In this project we will be predicting *pIC50 values* of drugs towards the target mentioned above using *molecular descriptors* as the input data.
+>pIC50 is the negative logarithm to the base 10 of IC50 values which indicate the concentration of drug required to inhibit the bioactivity of our target protein by 50 percent.
 ## Python Notebooks included 
 The following jupyter notebooks are included along with their descriptions:
 
