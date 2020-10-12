@@ -1,5 +1,9 @@
 # Covid_Conventional_ML_regression-model
 This repository is for a project based on conventional machine learning models.
+## Project Inspiration 
+This project was inspired from a series on Bioinformatics by *DataProfessor* on YouTube. I am attaching the relevant YouTube and Github links.
+* <ins>YouTube</ins> - https://www.youtube.com/watch?v=plVLRashaA8&t=280s
+* <ins>Github</ins> - https://github.com/dataprofessor/code/tree/master/python
 ## Background info 
 **Dihydrorotate dehydrogenase** is a potential host target (i.e *human*) , the inhibition of which can provide with a therapeutic relief for COVID-19 patients. This is a paper that discusses this point - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7406694/
 
